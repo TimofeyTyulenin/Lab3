@@ -1,0 +1,76 @@
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\bin\Debug\net5.0\appsettings.json
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\bin\Debug\net5.0\Lab3.exe
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\bin\Debug\net5.0\Lab3.deps.json
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\bin\Debug\net5.0\Lab3.runtimeconfig.json
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\bin\Debug\net5.0\Lab3.runtimeconfig.dev.json
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\bin\Debug\net5.0\Lab3.dll
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\bin\Debug\net5.0\Lab3.pdb
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\bin\Debug\net5.0\Lab3.Views.dll
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\bin\Debug\net5.0\Lab3.Views.pdb
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.csproj.AssemblyReference.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.AssemblyInfo.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.RazorAssemblyInfo.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.RazorAssemblyInfo.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\scopedcss\bundle\Lab3.styles.css
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\staticwebassets\Lab3.StaticWebAssets.Manifest.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.TagHelpers.input.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.TagHelpers.output.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.RazorCoreGenerate.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Razor\Views\Mockups\Index.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Razor\Views\Mockups\Quiz.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Razor\Views\Mockups\QuizResult.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.RazorTargetAssemblyInfo.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.RazorTargetAssemblyInfo.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.Views.pdb
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.dll
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\ref\Lab3.dll
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.pdb
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.genruntimeconfig.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\Lab3.csproj.CopyComplete
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 3\Lab3\obj\Debug\net5.0\refint\Lab3.dll
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\bin\Debug\net5.0\appsettings.json
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\bin\Debug\net5.0\Lab3.exe
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\bin\Debug\net5.0\Lab3.deps.json
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\bin\Debug\net5.0\Lab3.runtimeconfig.json
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\bin\Debug\net5.0\Lab3.runtimeconfig.dev.json
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\bin\Debug\net5.0\Lab3.dll
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\bin\Debug\net5.0\ref\Lab3.dll
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\bin\Debug\net5.0\Lab3.pdb
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\bin\Debug\net5.0\Lab3.Views.dll
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\bin\Debug\net5.0\Lab3.Views.pdb
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.AssemblyInfo.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.RazorAssemblyInfo.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.RazorAssemblyInfo.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\staticwebassets\Lab3.StaticWebAssets.Manifest.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\staticwebassets\Lab3.StaticWebAssets.xml
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\scopedcss\bundle\Lab3.styles.css
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.TagHelpers.input.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.TagHelpers.output.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.RazorCoreGenerate.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Razor\Views\Mockups\Index.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Razor\Views\Mockups\Quiz.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Razor\Views\Mockups\QuizResult.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.RazorTargetAssemblyInfo.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.RazorTargetAssemblyInfo.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.Views.pdb
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.dll
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\ref\Lab3.dll
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.pdb
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.genruntimeconfig.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 3\Lab3\obj\Debug\net5.0\Lab3.csproj.CopyComplete
